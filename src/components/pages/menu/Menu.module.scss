@@ -1,0 +1,40 @@
+#menu {
+  margin-top: 30px;
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+  }
+}
+.name {
+  border-radius: 15px;
+  background-color: #d9d9d9;
+  width: 350px;
+  padding: 30px;
+  margin-top: 30px;
+  img {
+    width: 290px;
+    border-radius: 8px;
+  }
+  h4 {
+    margin-top: 10px;
+    font-size: 30px;
+  }
+  .btn {
+    display: flex;
+    gap: 80px;
+    align-items: center;
+    margin-top: 10px;
+    h5 {
+      font-size: 30px;
+    }
+  }
+  .btN {
+    display: flex;
+    gap: 20px;
+  }
+}
+.menu_text {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+}

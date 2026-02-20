@@ -1,0 +1,35 @@
+.order {
+  gap: 30px;
+  display: flex;
+  padding: 5px;
+  margin: 0 auto;
+
+  margin-top: 70px;
+  img {
+    width: 200px;
+    border-radius: 15px;
+  }
+  .top {
+    border-radius: 15px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  .btn2 {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 15px;
+    align-items: center;
+    gap: 7px;
+    button {
+      border-radius: 10px;
+      width: 50px;
+    }
+  }
+  .name h3 {
+    font-size: 30px;
+  }
+}
